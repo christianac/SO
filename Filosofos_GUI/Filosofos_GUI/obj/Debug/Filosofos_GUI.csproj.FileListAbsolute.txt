@@ -11,3 +11,6 @@ C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_G
 C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_DAC.dll
 C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_BE.pdb
 C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_DAC.pdb
+C:\Users\YIMI\Documents\GitHub\SO\SO\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_GUI.exe.config
+C:\Users\YIMI\Documents\GitHub\SO\SO\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.exe
+C:\Users\YIMI\Documents\GitHub\SO\SO\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.pdb

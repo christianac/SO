@@ -10,7 +10,7 @@ namespace Filosofos_BE
     {
         public int Comer      { get; set; }
         public int Pensar     { get; set; }
-
+        //mensaje
         public string Mensaje { get; set; }
         public int Tiempo     { get; set; }
         public int TiempoC    { get; set; }
